@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    /* width: 100%; */
+    left: 0;
+    /* border: 1px solid blue; */
+}
+
+.headerContainer {
+    /* border: 1px solid; */
+    width: 100%;
+}
+
+.header {
+    width: 100%
+}
+
+.galleryContainer {
+    width: 100%;
+}
+
+.gallery {
+    width: 100%;
+}
+
+.descriptionContainer {
+    width: 100%;
+    /* border: 1px solid; */
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+.new {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description {
+    /* border: 1px solid red; */
+    width: 60%;
+    margin-top: 5px;
+    float: left;
+}
+
+.ReservationsContainer {
+    width: 35%;
+    height: 110%;
+    margin-top: 10px;
+    margin-left: 5px;
+    /* border: 1px solid blue; */
+    float: right;
+}
+
+.reviews {
+    width: 60%;
+}
+
+.recommendationsContainer {
+    width: 100%;
+}
+
+.recommendations {
+    border: 1px solid;
+    width: 100%;
+}
