@@ -7,7 +7,7 @@ body {
 
 .headerContainer {
     /* border: 1px solid; */
-    width: 100%;
+    width: 100vw;
 }
 
 .header {
@@ -15,15 +15,15 @@ body {
 }
 
 .galleryContainer {
-    width: 100%;
+    width: 100vw;
 }
 
 .gallery {
-    width: 100%;
+    width: 100vw;
 }
 
 .descriptionContainer {
-    width: 100%;
+    width: 100vw;
     /* border: 1px solid; */
     margin-left: auto;
     margin-right: auto;
@@ -57,10 +57,11 @@ body {
 }
 
 .recommendationsContainer {
-    width: 100%;
+    width: 100vw;
+    margin-left: 20px;
 }
 
-.recommendations {
+/* .recommendations {
     border: 1px solid;
     width: 100%;
-}
+} */
