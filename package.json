@@ -20,7 +20,7 @@
   "homepage": "https://github.com/irentro/checkout-proxy#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "http-proxy": "^1.17.0"
+    "http-proxy": "^1.18.1"
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
